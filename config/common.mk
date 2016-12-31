@@ -1,0 +1,14 @@
+# OpenGapps
+GAPPS_FORCE_PACKAGE_OVERRIDES := true
+GAPPS_FORCE_WEBVIEW_OVERRIDES := true
+GAPPS_FORCE_MMS_OVERRIDES := true
+GAPPS_FORCE_DIALER_OVERRIDES := true
+GAPPS_FORCE_BROWSER_OVERRIDES := true
+GAPPS_FORCE_MATCHING_DPI := true
+WITH_DEXPREOPT := true
+
+# Custom packages
+PRODUCT_PACKAGES += \
+    WakeGestures \
+    KernelAdiutor \
+    Nethunter
