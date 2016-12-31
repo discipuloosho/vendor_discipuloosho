@@ -10,5 +10,4 @@ WITH_DEXPREOPT := true
 # Custom packages
 PRODUCT_PACKAGES += \
     WakeGestures \
-    KernelAdiutor \
-    Nethunter
+    KernelAdiutor
