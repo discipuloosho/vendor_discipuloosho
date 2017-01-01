@@ -12,7 +12,8 @@ PRODUCT_PACKAGES += \
     GCS \
     PrebuiltGmail \
     PrebuiltExchange3Google \
-    Photos
+    Photos \
+    Wallet
 
 # Custom packages
 PRODUCT_PACKAGES += \
