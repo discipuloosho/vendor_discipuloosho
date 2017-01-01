@@ -4,8 +4,15 @@ GAPPS_FORCE_WEBVIEW_OVERRIDES := true
 GAPPS_FORCE_MMS_OVERRIDES := true
 GAPPS_FORCE_DIALER_OVERRIDES := true
 GAPPS_FORCE_BROWSER_OVERRIDES := true
-GAPPS_FORCE_MATCHING_DPI := true
-WITH_DEXPREOPT := true
+PRODUCT_PACKAGES += \
+    CalculatorGoogle \
+    CalendarGooglePrebuilt \
+    GoogleCamera \
+    GoogleContacts \
+    GCS \
+    PrebuiltGmail \
+    PrebuiltExchange3Google \
+    Photos
 
 # Custom packages
 PRODUCT_PACKAGES += \
