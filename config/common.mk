@@ -7,13 +7,22 @@ GAPPS_FORCE_BROWSER_OVERRIDES := true
 PRODUCT_PACKAGES += \
     CalculatorGoogle \
     CalendarGooglePrebuilt \
+    CloudPrint2 \
+    Drive \
+    GCS \
     GoogleCamera \
     GoogleContacts \
-    GCS \
+    Maps \
+    Photos \
+    PlayGames \
     PrebuiltGmail \
     PrebuiltExchange3Google \
-    Photos \
-    Wallet
+    PrebuiltKeep \
+    Street \
+    TranslatePrebuilt \
+    Velvet \
+    Wallet \
+    YouTube
 
 # Custom packages
 PRODUCT_PACKAGES += \
