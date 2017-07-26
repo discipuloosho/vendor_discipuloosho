@@ -1,4 +1,5 @@
 # Custom packages
 PRODUCT_PACKAGES += \
     WakeGestures \
-    KernelAdiutor
+    KernelAdiutor \
+    WundergroundWeatherProvider
