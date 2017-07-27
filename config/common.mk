@@ -2,4 +2,5 @@
 PRODUCT_PACKAGES += \
     WakeGestures \
     KernelAdiutor \
-    WundergroundWeatherProvider
+    WundergroundWeatherProvider \
+    CMFileManager
