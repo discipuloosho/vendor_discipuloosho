@@ -3,4 +3,5 @@ PRODUCT_PACKAGES += \
     WakeGestures \
     KernelAdiutor \
     WundergroundWeatherProvider \
-    CMFileManager
+    CMFileManager \
+    XposedInstaller
