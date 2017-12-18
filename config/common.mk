@@ -3,4 +3,9 @@ PRODUCT_PACKAGES += \
     WakeGestures \
     KernelAdiutor \
     WundergroundWeatherProvider \
-    CMFileManager
+    CMFileManager \
+    cSploit \
+    OpenVPN \
+    RFAnalyzer \
+    Shodan \
+    USBKeyboard
