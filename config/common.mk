@@ -1,5 +1,5 @@
 # Custom packages
 PRODUCT_PACKAGES += \
     KernelAdiutor \
-    WundergroundWeatherProvider \
+    OpenWeatherMapWeatherProvider \
     CMFileManager
